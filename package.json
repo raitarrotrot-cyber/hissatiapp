@@ -10,5 +10,8 @@
   },
   "devDependencies": {
     "@capacitor/cli": "^7.0.0"
+  },
+  "scripts": {
+    "capacitor:sync:after": "node scripts/apply-icon.js"
   }
 }
