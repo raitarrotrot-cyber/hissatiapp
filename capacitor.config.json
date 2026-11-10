@@ -1,0 +1,13 @@
+{
+  "appId": "com.hissati.app",
+  "appName": "حصتي",
+  "webDir": "www",
+  "android": {
+    "adjustMarginsForEdgeToEdge": "auto"
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "iconColor": "#1b5ccf"
+    }
+  }
+}
